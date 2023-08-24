@@ -3,11 +3,11 @@ from tkinter import Variable
 
 
 print("bandar")
-print("4+4")
+print(4+4)
 # Write a print statement that uses the division operator / 
-print("4/2")
+print(4/2)
 # Add a print statement that uses multiplication *
-print("2*2")
+print(2*2)
 # Create a variable called `length` and assign a value to it
 length=6
 # Create a variable called    `width` and assign a value to it
